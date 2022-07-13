@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.main-container{
+    background-color: red;
+   
+    
+}
+.bg-container{
+    background-image: url("/myImages/pexels-anand-dandekar-1532771.jpg");
+    background-size: cover;
+    height: 100vh;
+   
+    
+}
+.element{
+    margin: auto;
+    width: auto;
+    width: 400px;
+    
+    background-color:aliceblue;
+    border-radius: 12px;
+}
+.error{
+    color:red;
+}
